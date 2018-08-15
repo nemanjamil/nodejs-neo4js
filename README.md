@@ -1,2 +1,3 @@
 # nodejs-neo4js
-NodeJS with nep4JS example
+NodeJS with nep4JS 
+Testing elements for neo4js
