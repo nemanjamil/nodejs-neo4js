@@ -1,2 +1,2 @@
 # nodejs-neo4js
-NodeJS with nep4JS
+NodeJS with nep4JS example
